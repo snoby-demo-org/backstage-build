@@ -1,0 +1,7 @@
+{
+  "name": "backstage-build",
+  "engineVersion": "v0.21.10",
+  "sdk": {
+    "source": "python"
+  }
+}
